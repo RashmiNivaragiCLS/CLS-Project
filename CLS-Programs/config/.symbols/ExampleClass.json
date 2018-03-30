@@ -1,0 +1,43 @@
+{
+    "constructors": [
+        {
+            "annotations": [],
+            "location": {
+                "column": 12,
+                "line": 2
+            },
+            "modifiers": [
+                "public"
+            ],
+            "name": "ExampleClass",
+            "parameters": [],
+            "references": [],
+            "type": null
+        }
+    ],
+    "externalReferences": [],
+    "id": "ExampleClass",
+    "innerClasses": [],
+    "interfaces": [],
+    "key": "ExampleClass",
+    "methods": [],
+    "name": "ExampleClass",
+    "namespace": null,
+    "parentClass": "",
+    "properties": [],
+    "tableDeclaration": {
+        "annotations": [],
+        "location": {
+            "column": 27,
+            "line": 1
+        },
+        "modifiers": [
+            "public",
+            "with sharing"
+        ],
+        "name": "ExampleClass",
+        "references": [],
+        "type": "ExampleClass"
+    },
+    "variables": []
+}

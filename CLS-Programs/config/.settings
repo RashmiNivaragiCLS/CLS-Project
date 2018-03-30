@@ -1,0 +1,18 @@
+{
+    "projectName": "CLS-Programs",
+    "username": "rashmi.nivaragi@cloudlendinginc.com",
+    "id": "545a7970-33db-11e8-8389-2f1bbc8c95a3",
+    "namespace": "",
+    "environment": "production",
+    "loginUrl": "https://login.salesforce.com/",
+    "workspace": "C:\\Users\\Rashmi\\Desktop\\CLS-Project",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "Report",
+        "ReportType",
+        "StaticResource"
+    ]
+}

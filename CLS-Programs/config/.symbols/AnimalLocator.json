@@ -1,0 +1,116 @@
+{
+    "constructors": [],
+    "externalReferences": [],
+    "id": "AnimalLocator",
+    "innerClasses": [],
+    "interfaces": [],
+    "key": "AnimalLocator",
+    "methods": [
+        {
+            "annotations": [],
+            "location": {
+                "column": 23,
+                "line": 2
+            },
+            "modifiers": [
+                "static",
+                "public"
+            ],
+            "name": "getAnimalNameById",
+            "parameters": [
+                {
+                    "name": "addid",
+                    "type": "Integer"
+                }
+            ],
+            "references": [],
+            "returnType": "String",
+            "type": null
+        }
+    ],
+    "name": "AnimalLocator",
+    "namespace": null,
+    "parentClass": "",
+    "properties": [],
+    "tableDeclaration": {
+        "annotations": [],
+        "location": {
+            "column": 14,
+            "line": 1
+        },
+        "modifiers": [
+            "public"
+        ],
+        "name": "AnimalLocator",
+        "references": [],
+        "type": "AnimalLocator"
+    },
+    "variables": [
+        {
+            "annotations": [],
+            "location": {
+                "column": 49,
+                "line": 2
+            },
+            "modifiers": [],
+            "name": "addid",
+            "references": [],
+            "type": "Integer"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 14,
+                "line": 4
+            },
+            "modifiers": [],
+            "name": "http",
+            "references": [],
+            "type": "System.Http"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 13,
+                "line": 5
+            },
+            "modifiers": [],
+            "name": "request",
+            "references": [],
+            "type": "System.HttpRequest"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 22,
+                "line": 8
+            },
+            "modifiers": [],
+            "name": "animal",
+            "references": [],
+            "type": "Map<String,Object>"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 22,
+                "line": 9
+            },
+            "modifiers": [],
+            "name": "response",
+            "references": [],
+            "type": "System.HttpResponse"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 32,
+                "line": 13
+            },
+            "modifiers": [],
+            "name": "results",
+            "references": [],
+            "type": "Map<String,Object>"
+        }
+    ]
+}
